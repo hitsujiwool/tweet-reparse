@@ -1,0 +1,25 @@
+{
+  "name": "tweet-reparse",
+  "version": "0.0.1",
+  "description": "reparse Twitter API response to HTML",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:hitsujiwool/tweet-reparse"
+  },
+  "keywords": [
+    "twitter"
+  ],
+  "author": "Ryo Murayama <utatanenohibi@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hitsujiwool/tweet-reparse/issues"
+  },
+  "homepage": "https://github.com/hitsujiwool/tweet-reparse",
+  "devDependencies": {
+    "mocha": "*"
+  }
+}

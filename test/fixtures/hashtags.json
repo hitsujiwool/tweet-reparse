@@ -1,0 +1,17 @@
+{
+  "text": "Loved #devnestSF",
+  "entities": {
+    "hashtags": [
+      {
+        "text": "devnestSF",
+        "indices": [
+          6,
+          16
+        ]
+      }      
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": []
+  }
+}
